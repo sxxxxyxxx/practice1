@@ -36,7 +36,7 @@ background-size: 261px 444px}
 #grid #article{
 	
 	padding-left:240px;}
-@media(max-width: 599px) {
+@media(max-width: 767px) {
 img{
 	width:100%;
 	display:block;
