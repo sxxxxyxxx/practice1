@@ -11,18 +11,13 @@ h2{
 	
 }
 ul{
+	font-size:20px;
 	border-right:1px solid gray;
 	padding-top:20px;
 	padding-bottom:600px;
 	width:215px;
 	margin:0;}
-<--
-div {
-  background-image: url("index.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-background-size: 261px 444px}
-  -->
+
 #index{
 	color:purple;
 }
@@ -32,6 +27,10 @@ background-size: 261px 444px}
 #grid ul{
 	color:black;
 	padding-left:135px;
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 351px 560px
 }	
 #grid #article{
 	
@@ -46,8 +45,7 @@ img{
 	display:block;
 }
 #grid #article{
-	padding-left:20px;
-	
+	padding-left:20px;	
 }
 li{
 	margin-left:58px;
