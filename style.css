@@ -17,10 +17,6 @@ ul{
 	padding-bottom:600px;
 	width:215px;
 	margin:0;}
-
-#index{
-	color:purple;
-}
 #grid{
 	display:grid;
 	grid-template-columns:150px 1fr;}
@@ -53,7 +49,6 @@ li{
 	margin-left:58px;
 }
 #grid ul{
-	background-color:white;
 	border-right:none;
 	padding-bottom:30px;}
 h1{
